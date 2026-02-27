@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**danielsntgo/danielsntgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi there, hello word !
 
-Here are some ideas to get you started:
+# My name
+Im daniel de la hoz
+## ¿What am i doing  for a living?
+I'm currently learning Python and building small projects to improve my logic and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## that i'm passionate about 
+
+I'm passionate about technology, programming,
+
+## top languages
+
+* python
+
+* html
+
+* css
+
+## ramdon fact and hobby
+I like to do draw and paint
