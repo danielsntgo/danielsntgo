@@ -1,24 +1,68 @@
-## Hi there 👋
+# Hi there 👋
 
-# hi there, hello word !
+# Hello World!
 
-# My name
-Im daniel de la hoz
-## ¿What am i doing  for a living?
-I'm currently learning Python and building small projects to improve my logic and problem-solving skills.
+## 👨‍💻 About Me
 
+My name is **Daniel Santiago de la Hoz Coha**.
 
-## that i'm passionate about 
+I am a Systems Engineering student at Universidad de la Costa (CUC) and currently pursuing a Technology Degree in Software Analysis and Development (ADSO) at SENA.
 
-I'm passionate about technology, programming,
+I am passionate about technology, software development, and continuous learning.
 
-## top languages
+---
 
-* python
+## 🚀 What I'm Doing
 
-* html
+I'm currently learning and improving my programming skills by building projects and exploring new technologies.
 
-* css
+My goal is to grow as a software developer and gain professional experience in the tech industry.
 
-## ramdon fact and hobby
-I like to do draw and paint
+---
+
+## 💻 Technologies & Skills
+
+### Programming Languages
+- Python
+- JavaScript
+
+### Frontend
+- HTML5
+- CSS3
+
+### Tools & Technologies
+- Git
+- GitHub
+- SQL (Fundamentals)
+- JSON Server
+- Visual Studio Code
+
+---
+
+## 📚 Education
+
+- Systems Engineering – Universidad de la Costa (CUC)
+- ADSO Technology Degree – SENA
+- Systems Technician – SENA
+
+---
+
+## 🌎 Languages
+
+- Spanish (Native)
+- English (Basic Technical Level)
+
+---
+
+## 🎨 Hobbies & Interests
+
+- Drawing and painting
+- Technology
+- Programming
+- Learning new skills
+
+---
+
+## 📈 Current Goal
+
+To continue developing my programming skills, contribute to meaningful projects, and build a successful career in software development.
